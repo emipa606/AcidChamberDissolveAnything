@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Acid Chamber (Continued)</name>
+  <packageId>Mlie.AcidChamberDissolveAnything</packageId>
+  <author>jspike</author>
+  <url>https://github.com/emipa606/AcidChamberDissolveAnything</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of jspikes mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=824206983
+
+- Should now be able to destroy all items as that seems to have been the intention of the mod
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/AcidChamberDissolveAnything][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+Chamber full of acid designed to dissolve any item in a matter of minutes. Bulk(20x) option included as well. Works similar to the cremation chamber but for any in game item. Puts off a cancer causing green glow and leaks acid but it gets the job done. Even fits nicely into the Research tab.
+
+Originally created for myself but figured some others might be interested. Please comment if you find bugs or whatever. I'm running a ton of mods and haven't had any problems yet. 
+
+Supports v.16
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
+</ModMetaData>
+

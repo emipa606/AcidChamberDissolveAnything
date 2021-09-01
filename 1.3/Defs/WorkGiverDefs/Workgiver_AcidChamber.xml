@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <WorkGiverDef>
+    <defName>DoBillsAcidChamber</defName>
+    <label>Dissolve things in Acid</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Hauling</workType>
+    <priorityInType>40</priorityInType>
+    <fixedBillGiverDefs>
+      <li>AcidChamber</li>
+    </fixedBillGiverDefs>
+    <verb>dissolve</verb>
+    <gerund>dissolving at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+</Defs>
