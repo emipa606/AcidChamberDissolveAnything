@@ -7,6 +7,17 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=824206983
 
 - Should now be able to destroy all items as that seems to have been the intention of the mod
 
+Detailed description by user Thundercraft
+
+
+- It runs on electricity, requiring 250w (the same as the Crematorium it resembles).
+- It has a cleanliness value of -20, just like a Crematorium.
+- The research cost is 750, the tech level is Industrial and the prerequisite is Electricity.
+- Building it costs 150 stone, 50 Steel and 5 Components, which is more than twice the Steel &amp; Components of a Crematorium.
+- This Acid Chamber actually produces about 25% more heat than a Crematorium.
+- A Crematorium has -10 Beauty, but this Acid Chamber does not.
+
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	
