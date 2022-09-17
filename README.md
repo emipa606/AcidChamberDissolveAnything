@@ -6,6 +6,7 @@ Update of jspikes mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=824206983
 
 - Should now be able to destroy all items as that seems to have been the intention of the mod
+- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2574489704]Simple FX: Smoke
 
 Detailed description by user Thundercraft
 
@@ -39,6 +40,7 @@ Supports v.16
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 

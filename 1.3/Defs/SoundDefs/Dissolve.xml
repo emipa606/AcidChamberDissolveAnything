@@ -10,8 +10,8 @@
       <li>
         <muteWhenPaused>True</muteWhenPaused>
         <grains>
-          <li Class="AudioGrain_Folder">
-            <clipFolderPath>Dissolve</clipFolderPath>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Dissolve</clipPath>
           </li>
         </grains>
         <volumeRange>
