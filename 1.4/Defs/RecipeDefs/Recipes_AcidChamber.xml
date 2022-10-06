@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef Name="Dissolve">
+    <defName>Dissolve</defName>
+    <label>dissolve item</label>
+    <description>Dissolve anything in acid to completely destroy it.</description>
+    <jobString>Dissolving item in acid.</jobString>
+    <workAmount>300</workAmount>
+    <requiredGiverWorkType>Hauling</requiredGiverWorkType>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Dissolve</soundWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Root</li>
+          </categories>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Root</li>
+      </categories>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <thingDefs>
+      </thingDefs>
+    </defaultIngredientFilter>
+  </RecipeDef>
+  <RecipeDef Name="BulkDissolve">
+    <defName>BulkDissolve</defName>
+    <label>bulk dissolve items</label>
+    <description>Dissolve 20 items in acid at once to completely destroy them.</description>
+    <jobString>Dissolving items in acid.</jobString>
+    <workAmount>400</workAmount>
+    <requiredGiverWorkType>Hauling</requiredGiverWorkType>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Dissolve</soundWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Root</li>
+          </categories>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Root</li>
+      </categories>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <thingDefs>
+      </thingDefs>
+    </defaultIngredientFilter>
+  </RecipeDef>
+</Defs>
