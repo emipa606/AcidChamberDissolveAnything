@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Dissolve things in Acid -->
+  <DoBillsAcidChamber.label>Dissolve things in Acid</DoBillsAcidChamber.label>
+  <!-- EN: dissolving at -->
+  <DoBillsAcidChamber.gerund>dissolving at</DoBillsAcidChamber.gerund>
+  <!-- EN: dissolve -->
+  <DoBillsAcidChamber.verb>dissolve</DoBillsAcidChamber.verb>
+</LanguageData>

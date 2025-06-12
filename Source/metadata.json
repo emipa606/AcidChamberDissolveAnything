@@ -2,5 +2,11 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "0",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "SocialImageSet": true,
+  "SearchTags": [
+    " destructive",
+    " industrial"
+  ],
+  "LastXmlCleaning": "2025-06-12T22:06:53.4764421+02:00"
 }

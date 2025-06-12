@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: acid chamber -->
+  <AcidChamber.label>acid chamber</AcidChamber.label>
+  <!-- EN: Dissolve anything in acid. Electrically-powered. -->
+  <AcidChamber.description>Dissolve anything in acid. Electrically-powered.</AcidChamber.description>
+</LanguageData>

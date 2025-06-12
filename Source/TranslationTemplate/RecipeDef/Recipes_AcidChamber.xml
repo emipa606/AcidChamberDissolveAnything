@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bulk dissolve items -->
+  <BulkDissolve.label>bulk dissolve items</BulkDissolve.label>
+  <!-- EN: Dissolve 20 items in acid at once to completely destroy them. -->
+  <BulkDissolve.description>Dissolve 20 items in acid at once to completely destroy them.</BulkDissolve.description>
+  <!-- EN: Dissolving items in acid. -->
+  <BulkDissolve.jobString>Dissolving items in acid.</BulkDissolve.jobString>
+  <!-- EN: dissolve item -->
+  <Dissolve.label>dissolve item</Dissolve.label>
+  <!-- EN: Dissolve anything in acid to completely destroy it. -->
+  <Dissolve.description>Dissolve anything in acid to completely destroy it.</Dissolve.description>
+  <!-- EN: Dissolving item in acid. -->
+  <Dissolve.jobString>Dissolving item in acid.</Dissolve.jobString>
+</LanguageData>
